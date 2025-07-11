@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rafli Adipratama</h1>
+<h3 align="center">Informatics Student | Passionate about Web Dev & SEO</h3>
 
-<!--
-**rafliadipratama/rafliadipratama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafliadipratama&show_icons=true&theme=radical" alt="rafliadipratama" />
+</p>
+
+## 🧠 Top Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafliadipratama&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rafliadipratama&theme=radical&margin-w=10&no-bg=true&no-frame=true" alt="rafli trophies" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rafliadipratama&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/rafliadipratama) *(ganti jika ada)*
+- 🌐 [Portfolio](https://rafliadipratama.dev) *(opsional, jika punya)*
