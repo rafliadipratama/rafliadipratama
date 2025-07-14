@@ -1,4 +1,4 @@
-<p><b>&#9487;</b></p>
+<p align="center"><b>┏━ Welcome ━┓</b></p>
 
 <p align="center">
   <a href="https://github.com/rafliadipratama">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="right"><b>&#9499;</b></p>
+<p align="center"><b>┗━━━━━━━━━━━━┛</b></p>
 
 ---
 
