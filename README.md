@@ -49,7 +49,11 @@
   <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML             15 mins         ██████████░░░░░░░░░░░░░░░   39.55 %
+Python           11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.58 %
+XML              6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.46 %
+Blade Template   5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
+JSON             0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
