@@ -49,9 +49,10 @@
   <!--START_SECTION:waka-->
 
 ```txt
-Blade Template   10 hrs 24 mins  ████████████████████░░░░░   80.39 %
-PHP              2 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Blade Template   10 hrs 26 mins  ████████████████████▓░░░░   82.36 %
+PHP              2 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
