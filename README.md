@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:030712,30:0c4a6e,70:0284c7,100:00f0ff&height=220&section=header&text=Mohamad%20Rafli%20Adipratama&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20Tech%20Enthusiast&descFontSize=18&descAlignY=58&descColor=00f0ff" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,50:0369a1,100:38bdf8&height=220&section=header&text=Mohamad%20Rafli%20Adipratama&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20System%20Architect%20%E2%80%A2%20Tech%20Enthusiast&descFontSize=18&descAlignY=58&descColor=bae6fd" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
   <a href="https://github.com/rafliadipratama">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F0FF&center=true&vCenter=true&width=560&height=45&lines=Hi+there!+I'm+Mohamad+Rafli+Adipratama+%F0%9F%91%8B;Fullstack+Developer+%7C+Laravel+%2B+React+%E2%9A%A1;Specialized+in+Enterprise+%26+e-Document+Systems;Building+robust+solutions+for+real-world+impact+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&height=45&lines=Hi+there!+I'm+Mohamad+Rafli+Adipratama+%F0%9F%91%8B;Fullstack+Developer+%7C+Laravel+%2B+React+%E2%9A%A1;Specialized+in+Enterprise+%26+e-Document+Systems;Building+robust+solutions+for+real-world+impact+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
   <a href="https://rafliadipratama-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-00F0FF?style=for-the-badge&logoColor=030712" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/rafliadipratama" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -27,9 +27,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rafliadipratama&color=00F0FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Location-Bandung%2C%20Indonesia-030712?style=flat-square&logo=googlemaps&logoColor=00F0FF" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Fullstack%20Developer%20%40%20PT.%20Solas-030712?style=flat-square&logo=codeforces&logoColor=00F0FF" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=rafliadipratama&color=0ea5e9&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-Bandung%2C%20Indonesia-0f172a?style=flat-square&logo=googlemaps&logoColor=38bdf8" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Fullstack%20Developer%20%40%20PT.%20Solas-0f172a?style=flat-square&logo=codeforces&logoColor=38bdf8" alt="Status" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ Profile:
       <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
       <img src="https://img.shields.io/badge/PHP_8+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/REST_API-00F0FF?style=for-the-badge&logo=fastapi&logoColor=030712" alt="REST API" />
+      <img src="https://img.shields.io/badge/REST_API-0284C7?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
       <img src="https://img.shields.io/badge/Spatie_RBAC-1E293B?style=for-the-badge&logo=auth0&logoColor=white" alt="Spatie" />
       <img src="https://img.shields.io/badge/Eloquent_ORM-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Eloquent" />
     </td>
@@ -222,15 +222,15 @@ Profile:
   <table border="0">
     <tr>
       <td>
-        <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafliadipratama&show_icons=true&bg_color=030712&border_color=00f0ff&title_color=00f0ff&icon_color=00f0ff&text_color=e0f2fe&hide_border=false" alt="Rafli's GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafliadipratama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="Rafli's GitHub Stats" />
       </td>
       <td>
-        <img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafliadipratama&layout=compact&bg_color=030712&border_color=00f0ff&title_color=00f0ff&text_color=e0f2fe&hide_border=false" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafliadipratama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://streak-stats.demolab.com/?user=rafliadipratama&background=030712&border=00f0ff&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakNum=00f0ff&sideNums=00f0ff&currStreakLabel=00f0ff&dates=bae6fd&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rafliadipratama&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
 </div>
 
 <details align="center">
@@ -252,7 +252,7 @@ No activity tracked yet. Updates automatically via GitHub Actions.
   <p>I'm always open to discussing web systems, open-source projects, and new professional opportunities.</p>
 
   <a href="https://rafliadipratama-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=About.me&logoColor=030712" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/rafliadipratama" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -264,9 +264,9 @@ No activity tracked yet. Updates automatically via GitHub Actions.
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:rafliadipratma@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-00F0FF?style=for-the-badge&logo=gmail&logoColor=030712" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:030712,30:0c4a6e,70:0284c7,100:00f0ff&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,50:0369a1,100:38bdf8&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
