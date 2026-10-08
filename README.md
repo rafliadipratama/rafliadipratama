@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://rafliadipratama-portfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-0ea5e9?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/rafliadipratama" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
