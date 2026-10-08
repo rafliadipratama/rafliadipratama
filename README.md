@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rafliadipratama&color=0ea5e9&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Location-Bandung%2C%20Indonesia-0f172a?style=flat-square&logo=googlemaps&logoColor=38bdf8" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Software%20Engineer%20%40%20PT.%20Solas-0f172a?style=flat-square&logo=codeforces&logoColor=38bdf8" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Software%20Engineer%20%40%20PT.%20Padepokan%2079-0f172a?style=flat-square&logo=codeforces&logoColor=38bdf8" alt="Status" />
 </p>
 
 ---
@@ -42,7 +42,7 @@ Profile:
   Role        : Software Engineer & Fullstack Developer
   Location    : Bandung, West Java, Indonesia 🇮🇩
   Education   : S1 Teknik Informatika - STMIK Indonesia Mandiri (2021 - 2025)
-  Current Org : PT. Solas Langgeng Sejahtera (Aug 2025 - Present)
+  Current Org : PT. Padepokan 79 (Sep 2026 - Present)
   Core Stacks : Go (Golang), Laravel 12, PHP 8+, React.js, TypeScript, Tailwind CSS, MySQL, Redis
 ```
 
