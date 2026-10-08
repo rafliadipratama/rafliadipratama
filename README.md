@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,50:0369a1,100:38bdf8&height=220&section=header&text=Mohamad%20Rafli%20Adipratama&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Fullstack%20%E2%80%A2%20Mobile%20Developer&descFontSize=18&descAlignY=58&descColor=bae6fd" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,50:0369a1,100:38bdf8&height=220&section=header&text=Mohamad%20Rafli%20Adipratama&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Fullstack%20%E2%80%A2%20Mobile%20%E2%80%A2%20AI%20Automation&descFontSize=17&descAlignY=58&descColor=bae6fd" width="100%" alt="Header Banner" />
 </div>
 
 <div align="center">
   <a href="https://github.com/rafliadipratama">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=580&height=45&lines=Hi+there!+I'm+Mohamad+Rafli+Adipratama+%F0%9F%91%8B;Software+Engineer+%7C+Go+%2B+Laravel+%2B+React+%E2%9A%A1;Mobile+Developer+%7C+Flutter+%2B+Dart+%F0%9F%93%B1;Specialized+in+Backend+%26+Mobile+Engineering;Building+scalable+systems+with+precision+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=580&height=45&lines=Hi+there!+I'm+Mohamad+Rafli+Adipratama+%F0%9F%91%8B;Software+Engineer+%7C+Go+%2B+Laravel+%2B+React+%E2%9A%A1;Mobile+Developer+%7C+Flutter+%2B+Dart+%F0%9F%93%B1;AI+Automation+%7C+n8n+%2B+Agentic+Workflows+%F0%9F%A4%96;Building+scalable+systems+with+precision+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -43,9 +43,10 @@ Profile:
   Location    : Bandung, West Java, Indonesia 🇮🇩
   Education   : S1 Teknik Informatika - STMIK Indonesia Mandiri (2021 - 2025)
   Current Org : PT. Padepokan 79 (Sep 2026 - Present)
-  Core Stacks : Go (Golang), Laravel 12, Flutter, Dart, React.js, TypeScript, Tailwind CSS, MySQL, Redis
+  Core Stacks : Go (Golang), Laravel 12, Flutter, Dart, n8n (AI Workflows), React.js, TypeScript, MySQL, Redis
 ```
 
+- 🤖 **AI & Workflow Automation:** Designing autonomous AI agent pipelines, RAG systems, tool-calling chains, and webhook automations using **n8n** and modern LLMs.
 - 📱 **Mobile Engineering:** Developing cross-platform mobile applications using **Flutter & Dart** with clean architecture, responsive layouts, and seamless REST API integrations.
 - 🏢 **Enterprise Systems:** Developing regulated e-document governance platforms (SOP, CAPA, Change Control) with 6-level Spatie RBAC and digital signatures.
 - ⚡ **Backend & Concurrency:** Building high-performance microservices with Go (Golang) and managing distributed locking via Redis.
@@ -65,6 +66,14 @@ Profile:
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/REST_API-0284C7?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
       <img src="https://img.shields.io/badge/Spatie_RBAC-1E293B?style=for-the-badge&logo=auth0&logoColor=white" alt="Spatie" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>AI & Workflow Automation</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/n8n_AI_Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+      <img src="https://img.shields.io/badge/AI_Agents-FF007F?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+      <img src="https://img.shields.io/badge/Webhook_Automations-10B981?style=for-the-badge&logo=fastapi&logoColor=white" alt="Webhooks" />
     </td>
   </tr>
   <tr>
