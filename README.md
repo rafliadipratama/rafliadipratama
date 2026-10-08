@@ -127,16 +127,6 @@ Profile:
 
 ---
 
-### 📜 Certifications & Verified Credentials
-
-- 🏅 **Badan Nasional Sertifikasi Profesi (BNSP):** [Certified Digital Marketing Professional (2024 - 2027)](https://rafliadipratama-portfolio.netlify.app/assets/files/Sertifikat%20BNSP%20Digital%20Marketing.pdf)
-- ☁️ **Dicoding Indonesia:** [Learn Basic AWS Cloud](https://www.dicoding.com/certificates/L4PQGGD4QZO1)
-- ♾️ **Dicoding Indonesia:** [DevOps Fundamentals](https://www.dicoding.com/certificates/EYX46YVVWPDL)
-- ⚙️ **Dicoding Indonesia:** [Back-End Developer for Beginners](https://www.dicoding.com/certificates/72ZD8YYK6ZYW)
-- 🟨 **Dicoding Indonesia:** [JavaScript Programming Fundamentals](https://www.dicoding.com/certificates/07Z6V85KYXQR)
-
----
-
 ### 📊 GitHub Activity & Telemetry
 
 <div align="center">
