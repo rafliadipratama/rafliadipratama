@@ -43,11 +43,11 @@ Profile:
   Location    : Bandung, West Java, Indonesia 🇮🇩
   Education   : S1 Teknik Informatika - STMIK Indonesia Mandiri (2021 - 2025)
   Current Org : PT. Padepokan 79 (Sep 2026 - Present)
-  Core Stacks : Go (Golang), Laravel 12, Flutter, Dart, n8n (AI Workflows), React.js, TypeScript, MySQL, Redis
+  Core Stacks : Go (Golang), Laravel 12, Flutter, Dart, SQLite, n8n (AI Workflows), React.js, TypeScript, MySQL, Redis
 ```
 
 - 🤖 **AI & Workflow Automation:** Designing autonomous AI agent pipelines, RAG systems, tool-calling chains, and webhook automations using **n8n** and modern LLMs.
-- 📱 **Mobile Engineering:** Developing cross-platform mobile applications using **Flutter & Dart** with clean architecture, responsive layouts, and seamless REST API integrations.
+- 📱 **Mobile Engineering:** Developing cross-platform mobile applications using **Flutter & Dart** (MoneyRecord) with offline-first SQLite, Clean Architecture, BLoC, and responsive layouts.
 - 🏢 **Enterprise Systems:** Developing regulated e-document governance platforms (SOP, CAPA, Change Control) with 6-level Spatie RBAC and digital signatures.
 - ⚡ **Backend & Concurrency:** Building high-performance microservices with Go (Golang) and managing distributed locking via Redis.
 - 🌐 **Modern Fullstack:** Designing responsive user interfaces with React 18, TypeScript, Alpine.js, and Tailwind CSS.
@@ -98,6 +98,7 @@ Profile:
   <tr>
     <td align="center"><strong>Database & Storage</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -121,6 +122,42 @@ Profile:
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
       <img src="https://img.shields.io/badge/TablePlus-4B5563?style=for-the-badge&logo=datagrip&logoColor=white" alt="TablePlus" />
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Engineering Systems
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📱 <a href="https://github.com/rafliadipratama/money_record">MoneyRecord</a> — Offline-First Financial Engine</h4>
+      <p>High-performance personal finance tracking engine built with <strong>Flutter 3.x</strong>, <strong>Clean Architecture</strong>, and <strong>BLoC</strong>. Features an interactive cashflow calendar, category donut analytics, custom numpad with <strong>Dijkstra's Shunting-Yard evaluator</strong>, and local SQLite with WAL mode for 100% privacy.</p>
+      <p>
+        <a href="https://github.com/rafliadipratama/money_record"><img src="https://img.shields.io/badge/Repository-money__record-02569B?logo=github&style=flat-square" alt="Repo" /></a>
+        <a href="https://github.com/rafliadipratama/money_record/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0_APK-3DDC84?logo=android&style=flat-square" alt="Download APK" /></a>
+        <img src="https://img.shields.io/badge/Tests-14%2F14_Passing-brightgreen?style=flat-square" alt="Tests" />
+      </p>
+      <ul>
+        <li><strong>Offline-First SQLite WAL:</strong> Zero network latency, 100% local data privacy</li>
+        <li><strong>Financial Calendar:</strong> Daily cashflow balance badges & transaction drawer</li>
+        <li><strong>In-App Math Keypad:</strong> Real-time arithmetic evaluation with Shunting-Yard (RPN)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎬 <a href="https://github.com/rafliadipratama/LiveEuy">LiveEuy</a> — Cinematic Streaming & VOD Platform</h4>
+      <p>Full-featured Video-on-Demand (VOD) cinema streaming platform with adaptive HLS playback, real-time ambient illumination glow, thumbnail timeline scrubbing, and a 9-panel RBAC Admin Studio CMS.</p>
+      <p>
+        <a href="https://github.com/rafliadipratama/LiveEuy"><img src="https://img.shields.io/badge/Repository-LiveEuy-20232A?logo=github&style=flat-square" alt="Repo" /></a>
+        <a href="https://rafliadipratama-portfolio.netlify.app"><img src="https://img.shields.io/badge/Showcase-Live_Portfolio-38BDF8?logo=About.me&style=flat-square" alt="Showcase" /></a>
+      </p>
+      <ul>
+        <li><strong>Adaptive HLS:</strong> Auto-bitrate streaming with zero-drop buffer synchronization</li>
+        <li><strong>Dynamic Ambient Glow:</strong> Real-time canvas lighting surrounding cinema player</li>
+        <li><strong>Admin Studio CMS:</strong> 9 modular management panels protected by RBAC</li>
+      </ul>
     </td>
   </tr>
 </table>
